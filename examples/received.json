@@ -1,0 +1,6 @@
+{
+  "eventId": "evt_demo_001",
+  "type": "stock.received",
+  "sku": "DEMO-MUG",
+  "quantity": 4
+}
